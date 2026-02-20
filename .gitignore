@@ -116,3 +116,7 @@ target/
 !config_examples/config_freqai.example.json
 
 docker-compose-*.yml
+
+# 개인 파일 (로컬 전용)
+사용설명서.md
+run_advisor.py
